@@ -1,0 +1,1 @@
+This is a basic demo of the gulp uglify plugin in action. [to get gulp and npm visit](http://gulpjs.com/). Happy hacking
